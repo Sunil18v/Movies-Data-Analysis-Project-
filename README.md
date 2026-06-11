@@ -23,21 +23,19 @@ Netflix-Movies-Data-Analysis/
 └── release_year_distribution.png
 
 ## Genre Distribution
-<img width="643" height="498" alt="Q No- 1) what is the most frequent genre of movies released on Netflix" src="https://github.com/user-attachments/assets/d7156270-4142-4031-b01b-43372cda4023" />
+<img width="1286" height="996" alt="Q No- 1) what is the most frequent genre of movies released on Netflix(2)_HD" src="https://github.com/user-attachments/assets/dedac275-7372-4414-828c-f3c50a63b5de" />
 
 ## Votes Distribution
-
-<img width="527" height="513" alt="Q No -2)- which has highest votes in vote avg column" src="https://github.com/user-attachments/assets/d744dc5d-5e8d-470a-8e97-9e2b0068d546" />
+<img width="1054" height="1026" alt="Q No -2)- which has highest votes in vote avg column(3)_HD" src="https://github.com/user-attachments/assets/d9ab050a-1abd-453c-96d2-3bf87e7c9af3" />
 
 ## Highest Popularity Movie
-<img width="977" height="407" alt="Q NO- 3   what movie got the highest popularity what&#39;s its genre" src="https://github.com/user-attachments/assets/be01d101-43f0-4ffa-a021-293f2b5c25d1" />
+<img width="1954" height="814" alt="Q NO- 3   what movie got the highest popularity what&#39;s its genre(2)_HD" src="https://github.com/user-attachments/assets/cb2abe91-474d-407a-ac64-65537c00102e" />
 
 ## Lowest Popularity Movie
-
-<img width="885" height="345" alt="Q NO- 4 what movie got the lowest popularity what&#39;s its genre" src="https://github.com/user-attachments/assets/5ae9f061-d71a-491c-a0a9-418739c0b2e4" />
+<img width="1770" height="690" alt="Q NO- 4 what movie got the lowest popularity what&#39;s its genre(1)_HD" src="https://github.com/user-attachments/assets/b18fde43-72e7-451e-bea4-2a38830e95ea" />
 
 ## Release Year Distribution
-<img width="692" height="577" alt="Q No- 5- which year has the most filmmed movies" src="https://github.com/user-attachments/assets/ebcfb2d7-bd5b-4c2f-8bfe-4580f8e6f44f" />
+<img width="1384" height="1154" alt="Q No- 5- which year has the most filmmed movies(2)_HD" src="https://github.com/user-attachments/assets/e14bdf54-fc15-4ee3-86ce-9652f3142fae" />
 
 
 # 🎬 Netflix Movies Data Analysis
